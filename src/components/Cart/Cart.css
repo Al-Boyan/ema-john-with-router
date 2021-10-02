@@ -1,7 +1,15 @@
 .cart{
-    text-align: center;
     background:lightgray;
     padding: 10px;
     color: black;
     font-weight: bold;
+}
+.header{
+    text-align: center;
+}
+.grand-total{
+    color: #b12704;
+    font-size: 20px;
+    font-weight: 700;
+
 }
